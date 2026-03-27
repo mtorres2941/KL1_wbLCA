@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the associated paper."
+type: software
+title: "KL1_wbLCA: Probabilistic Whole-Building LCA Using Kernel Density Estimation"
+authors:
+  - family-names: Torres
+    given-names: Martin
+    email: martin.torres@colorado.edu
+    affiliation: University of Colorado Boulder
+repository-code: https://github.com/mtorres2941/KL1_wbLCA
+license: MIT
+
+preferred-citation:
+  type: article
+  title: "Characterizing Statistical Uncertainty and Variability of Building Material Emissions in Probabilistic Whole-Building Life Cycle Assessment Using Kernel Density Estimation"
+  authors:
+    - family-names: Torres
+      given-names: Martin
+      affiliation: University of Colorado Boulder
+  journal: "Building and Environment"
+  year: 2025
+  doi: 10.1016/j.buildenv.2025.113442
+  url: https://doi.org/10.1016/j.buildenv.2025.113442
