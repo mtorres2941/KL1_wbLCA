@@ -6,7 +6,7 @@
 
 Code and data supporting the publication:
 
-> Torres, M. (2025). Characterizing Statistical Uncertainty and Variability of Building Material Emissions in Probabilistic Whole-Building Life Cycle Assessment Using Kernel Density Estimation. *Building and Environment*. https://doi.org/10.1016/j.buildenv.2025.113442
+> Torres, M. I., & Srubar, W. V., III. (2025). Characterizing Statistical Uncertainty and Variability of Building Material Emissions in Probabilistic Whole-Building Life Cycle Assessment Using Kernel Density Estimation. *Building and Environment*. https://doi.org/10.1016/j.buildenv.2025.113442
 
 ## Overview
 
@@ -88,7 +88,7 @@ If you use this code or data, please cite:
   title   = {Characterizing Statistical Uncertainty and Variability of Building Material
              Emissions in Probabilistic Whole-Building Life Cycle Assessment Using
              Kernel Density Estimation},
-  author  = {Torres, Martin},
+  author  = {Torres, Mart{\'i}n I. and Srubar, Wil V., III},
   journal = {Building and Environment},
   year    = {2025},
   doi     = {10.1016/j.buildenv.2025.113442},
