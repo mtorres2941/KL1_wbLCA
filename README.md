@@ -1,6 +1,7 @@
 # KL1_wbLCA: Probabilistic Whole-Building LCA Using Kernel Density Estimation
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.buildenv.2025.113442-blue)](https://doi.org/10.1016/j.buildenv.2025.113442)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19245783.svg)](https://doi.org/10.5281/zenodo.19245783)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Code and data supporting the publication:
